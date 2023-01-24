@@ -1,8 +1,11 @@
 
-In this survay we looking into questions like difference in position in a company depending on skillsets, what kind of tools they use and there salaries.
+In this survay we looking into questions like difference in position in a company depending on skillsets,
+what kind of tools they use and there salaries.
 Also gender difference controling for position and experiance. 
 
-Started with basic understanding of data like columns, nulls, shape etc. Later did some experiment with plotly. Also we look into How do skills vary across roles.
+Started with basic understanding of data like columns, nulls, shape etc. 
+Later did some experiment with plotly.
+Also we look into How do skills vary across roles.
 
 Notebooks Referenced:
 
