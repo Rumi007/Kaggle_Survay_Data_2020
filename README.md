@@ -7,6 +7,10 @@ Started with basic understanding of data like columns, nulls, shape etc.
 Later did some experiment with plotly.
 Also we look into How do skills vary across roles.
 
+
+You can download the dataset from here
+https://www.kaggle.com/competitions/kaggle-survey-2020
+
 Notebooks Referenced:
 
 https://www.kaggle.com/subinium/kaggle-2020-visualization-analysis
